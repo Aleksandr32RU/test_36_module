@@ -18,3 +18,5 @@ testContactFormValidationEmail - проверка обязательности �
 testContactFormValidationName - тут имени
 testContactFormValidationMessage - тут сообщения
 testContactFormValidationPhone - тут телефона
+
+запуск командой mvn clean test или из ide
